@@ -1,0 +1,9 @@
+{
+  "deploymentId" : "4291454e-20ba-412b-835a-a705c6bdaa54",
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-2:605782089957:environment/tf_tutorial_env",
+    "templateArn" : "arn:aws:proton:us-east-2:605782089957:environment-template/tf-tutorial-env-vpc-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
