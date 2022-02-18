@@ -2,6 +2,6 @@
     "tf_tutorial_env": {
         "role": "arn:aws:iam::605782089957:role/github_oidc_role",
         "region": "us-east-2",
-        "state_bucket":"terraform-states"
+        "state_bucket":"ahmedfn-terraform-states"
     }    
 }
